@@ -1,0 +1,37 @@
+.navbar-nav .nav-link{
+    font-size: large;
+}
+
+.navbar-nav .nav-link:hover{
+    color: #fff;
+}
+
+.nav-link{
+    text-align: center;
+}
+
+body{
+    background-color: #e9e8e8;
+}
+
+header{
+    background-color: #c0bebe;
+}
+
+.card-label{
+    margin-right: 6px;
+}
+
+form .btn.btn-success{
+    margin-right: 4px;
+}
+
+form textarea{
+    resize: none;
+}
+
+.page-footer{
+    background-color: #c0bebe;
+    font-size: large;
+    font-weight: bold;
+}
